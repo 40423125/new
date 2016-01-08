@@ -1985,7 +1985,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
-&lt;title&gt;40423125-2&lt;/title&gt;
+&lt;title&gt;40423125&lt;/title&gt;
 &lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
 	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
 	&lt;!--增加對於 IE 早期版本的支援 --&gt;
@@ -1997,8 +1997,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;電腦語言的字串都不會太難，但一定要細心，因為只要多一個"/"就會出現trouble，我常常都會因為不小心而要困擾很久，我們老師說:"應注意而不注意就是過失!"，我一定會謹記在心不犯錯!&lt;/p&gt;
-    &lt;p&gt;多看幾次zero to hero的python教學之後,原本對文很畏懼的我，漸漸明白他們到底在說甚麼?不再害怕!就算他們是全英語的教學,還是能大概的知道他們教的東西,希望能藉此越來越熟悉python語法,個人給自己66分&lt;/p&gt;
+    &lt;p&gt;我要pass&lt;/p&gt;
+
 &lt;/section&gt;
 				
 </t>
@@ -2036,7 +2036,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;作業任務二&lt;/h1&gt;
-    &lt;p&gt;10/2 作業: 完成 [00:50:21] Displaying Text 課程研習(up to [01:20:29]), 必須在 10/16 上課前完成內容與自評&lt;/p&gt;
+    &lt;p&gt;尚未完工&lt;/p&gt;
  
 &lt;/section&gt;
 				
