@@ -417,7 +417,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160110145611.1"><vh>@clean w8.html</vh>
+<v t="leo.20160110145611.1" a="E"><vh>@clean w8.html</vh>
 <v t="leo.20160110145611.2"><vh>檔案說明</vh></v>
 <v t="leo.20160110145611.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160110145611.4" a="E"><vh>body 標註</vh>
@@ -432,7 +432,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109220653.1"><vh>@clean w11.html</vh>
+<v t="leo.20160109220653.1" a="E"><vh>@clean w11.html</vh>
 <v t="leo.20160109220653.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109220653.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109220653.4" a="E"><vh>body 標註</vh>
@@ -3204,21 +3204,20 @@ REM C:\WINDOWS\system32\cmd.exe /k %Disk%:\IDE\nodejs\nodejsvars.bat
 &lt;font color=red&gt;REM 啟動 Leo 編輯器&lt;/font&gt;   &lt;/p&gt;
 &lt;/section&gt;		
 </t>
-<t tx="leo.20160109220653.9">&lt;font color=purple&gt;心得&lt;/font&gt;
-----------------------------------------
-自己慢慢漸入佳境了
+<t tx="leo.20160109220653.9">&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+&lt;p&gt;自己慢慢漸入佳境了
 希望真的可以了解老師的苦心
-我會加油的:))))))
+我會加油的:))))))&lt;/p&gt;
+&lt;/section&gt;                            
                             
                             
-                            
-&lt;font color=purple&gt;自評&lt;/font&gt;
-----------------------------------------
-自評分數：70
-                        
+&lt;section&gt;
+&lt;h1&gt;自評&lt;/h1&gt;
+&lt;p&gt;自評分數：70               
 老師讓我過吧!!!!
-我會更加努力的!!!
-</t>
+我會更加努力的!!!&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20160109220655.1">@language xml
 @tabwidth -4
 @others
